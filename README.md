@@ -1,3 +1,4 @@
+theme: minima
 # H1
 ## H2
 ### H3
